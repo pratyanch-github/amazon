@@ -1,0 +1,83 @@
+
+  
+  /* ****************contact****************** */
+ 
+ 
+  
+  #signup
+  {
+    background-color: rgba(243, 245, 247, 0.79);
+    box-shadow: 6px 2px 9px grey;
+  padding: 1rem;
+    width: 60%;
+    margin: auto;
+    margin-top: 7rem;
+  
+    margin-bottom: 7rem;
+  
+  }
+  #signup input
+  {
+    width: 50%;
+  }
+  
+  #main_contact_page
+  {
+    overflow:scroll;
+  
+    background-color: rgba(0,0,255, 0.09);
+    height: 100vh;
+  }
+  #contact_button
+  {
+    background-color: rgb(242,169,71);
+    width: 20%;
+    border-radius: 3px;
+    margin: 0.5rem;
+  
+    padding: 0.5rem;
+    color: whitesmoke;
+  
+  }
+ 
+  #contact_button:hover
+  {
+    cursor: pointer;
+    opacity: 0.6;
+  }
+ 
+  
+  /* ***********register************ */
+  #main_register_page
+  {
+  overflow-y: scroll;
+    background-color: rgba(0,0,255, 0.09);
+    height: 100vh;
+  }
+  
+  input{
+    border: none;
+  }
+  
+  
+
+  
+  /* ********thank you************** */
+  .item2
+  {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .item2 Link ,a{
+    
+    /* border: 2px solid red; */
+    /* position: relative; */
+    /* z-index: 50; */
+    text-decoration: none;
+  }
+  /* .item2 Link:hover,.item2 a:hover{
+    
+    text-decoration:underline;
+    cursor: pointer;
+  }  */

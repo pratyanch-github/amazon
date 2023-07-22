@@ -14,9 +14,9 @@ How to use
 11. the customers cart item is saved into the browser local storage
 12. the sellers item are stored in MongoDB Atlas
 
-13. Final Demo
-14. ![amzn-min](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/240af78c-991c-4f15-a454-b45589901c3d)
-15. ![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/04d3fdc3-3df0-4286-9938-3130e8a46fdf)
-16. ![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/f798c1a3-1086-4433-b7f0-ddabee610c04)
-![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/4a753b02-868a-48c8-b2fe-bef58a242301)
+ Final Demo
+ ![amzn-min](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/240af78c-991c-4f15-a454-b45589901c3d)
+ ![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/04d3fdc3-3df0-4286-9938-3130e8a46fdf)
+ ![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/f798c1a3-1086-4433-b7f0-ddabee610c04)
+ ![image](https://github.com/ArindamDutta02082001/Amazon_Clone_final/assets/83761396/4a753b02-868a-48c8-b2fe-bef58a242301)
 
